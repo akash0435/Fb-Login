@@ -1,0 +1,48 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 20px;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #4267b2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3b5998;
+}
+
+p {
+  margin-top: 20px;
+}
+
+a {
+  color: #4267b2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
